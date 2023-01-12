@@ -1,0 +1,12 @@
+{
+  "name": "spline",
+  "version": "1.0.0",
+  "description": "[site spline](https://spline.design/)",
+  "main": "runtime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
